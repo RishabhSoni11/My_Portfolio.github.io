@@ -17,7 +17,8 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 - MongoDB / Firebase (if database is used)
 
 ## 📸 Preview
-![Portfolio Screenshot](link-to-screenshot)
+![Portfolio Screenshot](![Screenshot (8)](https://github.com/user-attachments/assets/bf612640-4c8b-4b3e-820c-48f56d6b9fed)
+)
 
 ## 📂 Project Structure
 ```bash
@@ -59,10 +60,10 @@ npm start
 ```
 
 ## 📬 Connect with Me
-- Portfolio: [your-portfolio-link]
-- LinkedIn: [your-linkedin-profile]
-- GitHub: [your-github-profile]
-- Email: [your-email]
+- Portfolio: [https://rishabhsoni11.github.io/My_Portfolio.github.io/]
+- LinkedIn: [https://www.linkedin.com/in/rishabh-soni-11dec2004/]
+- GitHub: [https://github.com/RishabhSoni11]
+- Email: [rahulsoninke786@gmail.com]
 
 ⭐ Feel free to fork, star, and contribute to this project! ⭐
 
